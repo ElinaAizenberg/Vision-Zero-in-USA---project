@@ -56,6 +56,6 @@ Additional datasets:
 
 The project includes the following Notebooks with detailed analysis and code:
 
-- US Accidents - Why California.ipynb
+- [US Accidents - Why California.ipynb](https://github.com/ElinaAizenberg/Vision-Zero-in-USA---project/blob/main/US%20Accidents%20-%20Why%20California.ipynb)
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/vision-zero-project).
