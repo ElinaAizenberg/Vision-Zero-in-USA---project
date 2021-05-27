@@ -28,7 +28,7 @@ Since Sweden became a pioneer, multiple countries and cities across the globe ha
 
 ​
 
-DATA
+# DATA
 
 
 In this project I use mainly 2 impressive datasets with information about car accidents in the USA. These datasets provide slightly different sets of details about each crash, so, I use them both for analysing presence and effectiveness of various designing principles.
@@ -49,3 +49,14 @@ Additional datasets:
 - [State Motor-Vehicle Registrations statistics](https://www.fhwa.dot.gov/policyinformation/statistics/2014/mv1.cfm), 2014 - 2019, US Department of Transportation, Federal Highway Administration;
 
 - [List of USA states abbreviations](https://worldpopulationreview.com/states/state-abbreviations).
+
+​
+
+# Notebooks & Website
+
+The project includes the following Notebooks with detailed analysis and code:
+
+Headlines web scraping.ipynb
+Headlines reading and clustering.ipynb
+
+If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/vision-zero-project).
