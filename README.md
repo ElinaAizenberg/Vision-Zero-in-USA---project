@@ -25,3 +25,27 @@ Since Sweden became a pioneer, multiple countries and cities across the globe ha
 - to analyse cases of fatal car accidents in the cities with changes performed by cities' administrations;
 
 - to create a model that predicts if a car accident results in death or serious injury.
+
+​
+
+DATA
+
+
+In this project I use mainly 2 impressive datasets with information about car accidents in the USA. These datasets provide slightly different sets of details about each crash, so, I use them both for analysing presence and effectiveness of various designing principles.
+
+1. **A Countrywide Traffic Accident Dataset (2016 - 2020, 49 states of the USA), 2.9 million records.** The dataset was provdied by Sobhan Moosavi on [Kaggle.com](https://www.kaggle.com/sobhanmoosavi/us-accidents) (Licence CC BY-NC-SA 4.0). The dataset was originally published in the following articles:
+
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. [“A Countrywide Traffic Accident Dataset.”](https://arxiv.org/abs/1906.05409), arXiv preprint arXiv:1906.05409 (2019).
+
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. [“Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.”](https://arxiv.org/abs/1909.09638) In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+
+2. **California Traffic Collision Data from SWITRS (2001 - 2020), 9.17 million records.** The dataset was provided by Alex Gude on [Kaggle.com](https://www.kaggle.com/alexgude/california-traffic-collision-data-from-switrs) (Licence CC0 1.0). The data about collisions was requested from the California Highway Patrol and combined by the author. Detailed data dictionary for the dataset can be found [here](https://tims.berkeley.edu/help/SWITRS.php#Party_Level).
+
+
+Additional datasets:
+
+- 2019 Census US Population Data By State on [Kaggle.com](https://www.kaggle.com/peretzcohen/2019-census-us-population-data-by-state) (General Public License, version 2);
+
+- [State Motor-Vehicle Registrations statistics](https://www.fhwa.dot.gov/policyinformation/statistics/2014/mv1.cfm), 2014 - 2019, US Department of Transportation, Federal Highway Administration;
+
+- [List of USA states abbreviations](https://worldpopulationreview.com/states/state-abbreviations).
