@@ -56,7 +56,6 @@ Additional datasets:
 
 The project includes the following Notebooks with detailed analysis and code:
 
-Headlines web scraping.ipynb
-Headlines reading and clustering.ipynb
+- US Accidents - Why California.ipynb
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/vision-zero-project).
