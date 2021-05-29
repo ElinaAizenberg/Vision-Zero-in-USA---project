@@ -31,7 +31,7 @@ Since Sweden became a pioneer, multiple countries and cities across the globe ha
 # DATA
 
 
-In this project I use mainly 2 impressive datasets with information about car accidents in the USA. These datasets provide slightly different sets of details about each crash, so, I use them both for analysing presence and effectiveness of various designing principles.
+In this project I use mainly 2 impressive datasets with information about car accidents in the USA. These datasets provide slightly different sets of details about each crash, so, I use them both for analysing presence and effectiveness of Vision Zero adaptation.
 
 1. **A Countrywide Traffic Accident Dataset (2016 - 2020, 49 states of the USA), 2.9 million records.** The dataset was provdied by Sobhan Moosavi on [Kaggle.com](https://www.kaggle.com/sobhanmoosavi/us-accidents) (Licence CC BY-NC-SA 4.0). The dataset was originally published in the following articles:
 
