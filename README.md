@@ -73,3 +73,21 @@ The project includes the following Notebooks with detailed analysis and code:
 - [US Accidents - California counties.ipynb](https://github.com/ElinaAizenberg/Vision-Zero-in-USA---project/blob/main/US%20accidents%20-%20California_counties.ipynb)
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/vision-zero-project).
+
+
+# Conclusion
+
+The project consists of 3 parts according to its goals.
+
+In the first part I conducted detailed analysis of car accidents in the USA and particularly in California to find out if there is any progress in reducing road fatalities to zero. I compare various accidents’ statistics of the whole state and summary statistics of the major cities in California where Vision Zero strategy was adopted. Afterwards, I analyse what are the principal reasons behind accidents with killed and injured victims and how the proportion of these reasons has changed over the last 6 years.
+
+The second part of the project is dedicated to analysis of accidents in 2 most populous cities in California: Los Angeles and San Diego. Visualization of accidents on the map enables to make some assumptions about most dangerous places in the cities and make conclusions about cities’ actions effectiveness that were performed to reduce total amount of road deaths.
+
+The final part of the project is dedicated to classification model that could predict if a collision with certain parameters, like location, weather and category of violation results in death/severe injury or not. Model training involves specific steps due to high level of data imbalance: percentage of accidents classified as fatal/with severe injuries is very small. Several algorithms are applied to handle the problem of imbalanced data classification. As a result, the model with the highest performance is chosen to be final.
+
+**PERSONAL VIEW**
+
+I would like to confess that doing this project I made a huge mistake (ethical or logical, you tell me): I started it and proceeded at least half of it having certain expectations about data in my mind. I was absolutely sure that I would see a significant drop in road deaths and collisions’ victims thanks to Vision Zero implementation. I was writing the code not only to conduct analysis, but to prove my point that Vision Zero is an optimal solution that could save thousands of lives in the USA every year. Quite on the contrary, bar charts and line charts demonstrated that the progress was very slow, if any. My charts and calculations disappointed me immensely and I wanted to drop the project.
+
+Nevertheless, I finished it and learnt a great deal about imbalanced data and, by no means, regreted about choosing this topic for my project. As a bonus, I learnt to approach a new dataset with an open mind and no expectations (tiny number of expectations).    
+
